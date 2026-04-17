@@ -7,6 +7,15 @@
   align-items: center;
 }
 
+.container main {
+  background-color: #ffffff;
+  width: 556px;
+  padding: 2rem;
+  padding-top: 4.5rem;
+
+  border-radius: .75rem;
+}
+
 .word  {
   width: 100%;
   display: flex;
@@ -14,7 +23,6 @@
   align-items: center;
   flex-wrap: wrap;
   gap: 1rem;
-
+  
   margin-top: 2.5rem;
-
 }
