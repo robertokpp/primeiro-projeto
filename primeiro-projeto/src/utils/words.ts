@@ -15,3 +15,4 @@ export const WORDS: Challenge[] = [
   },
   { id: 5, word: "Typescript", tip: "Para adicionar tipagem no Javascript" },
 ]
+
